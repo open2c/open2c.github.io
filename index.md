@@ -16,4 +16,4 @@ For analysis of Hi-C (and related) data, we have a suite of tools:
   - [bioframe](https://www.github.com/open2c/bioframe) provides a framework for genomic data analysis using Pandas DataFrames, including genomic interval arithmetic
   - [polychrom](https://www.github.com/open2c/polychrom) simplifies polymer simulations for *in silico* experiments with chromosomes
 
-Please interact with us on GitHub (we are open!), or join our [Slack](https://bit.ly/2UaOpAe) for more interactive discussions.
+Please interact with us on [GitHub](https://www.github.com/open2c) (we are open!), or join our [Slack](https://bit.ly/2UaOpAe) for more interactive discussions.
