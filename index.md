@@ -17,3 +17,6 @@ For analysis of Hi-C (and related) data, we have a suite of tools:
   - [polychrom](https://www.github.com/open2c/polychrom) simplifies polymer simulations for *in silico* experiments with chromosomes
 
 Please interact with us on [GitHub](https://www.github.com/open2c) (we are open!), or join our [Slack](https://bit.ly/2UaOpAe) for more interactive discussions.
+
+For contributors:
+ - [Authorship policy](authorship_policy.md)
