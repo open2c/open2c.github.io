@@ -35,5 +35,5 @@ Additionally,
 🤝 Please interact with us on [GitHub](https://www.github.com/open2c) (we are open!), or join our [Slack](https://bit.ly/2UaOpAe) for more interactive discussions.
 
 For contributors and community members:
- - [Authorship policy](authorship_policy.md)
- - [Code of conduct](code_of_conduct.md)
+ - [Authorship policy]({{ site.baseurl }}{% link authorship_policy.md %})
+ - [Code of conduct]({{ site.baseurl }}{% link code_of_conduct.md %})
