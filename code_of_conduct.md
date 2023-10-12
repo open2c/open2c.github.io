@@ -1,3 +1,5 @@
+---
+---
 # Open2C Code of Conduct
 
 ## Our Pledge

@@ -1,3 +1,5 @@
+---
+---
 # Open2C authorship policy
 
 What does Open2C hope to maximize as a community? An incentive to contribute to projects and maintain them in the long term. 

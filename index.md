@@ -1,3 +1,5 @@
+---
+---
 # Welcome to Open2C!
 
 We are a group of computational biologists working on chromosome structure and interested in developing open source tools for the wider community.
