@@ -8,21 +8,21 @@ We are particularly interested in the 3D organization of chromosomes, and most o
 
 🛠️ For analysis of Hi-C (and related) data, we have a suite of tools:
 
-- [cooler](https://www.github.com/open2c/cooler) for generation, normalization and storage of interaction matrices
+- [cooler](https://www.github.com/open2c/cooler)[^*] for generation, normalization and storage of interaction matrices
 
-- [pairtools](https://www.github.com/open2c/pairtools) for analysis and filtering of mapped reads
+- [pairtools](https://www.github.com/open2c/pairtools)[^*] for analysis and filtering of mapped reads
 
-- [distiller](https://www.github.com/open2c/distiller-nf) - a Nextflow pipeline for automation of Hi-C data processing, from reads to Cooler files
-
-- [cooltools](https://www.github.com/open2c/cooltools) for extracting and quantifying features from Hi-C data, including: contacts vs. distance, compartments and saddles, insulation, and peaks
+- [cooltools](https://www.github.com/open2c/cooltools)[^*] for extracting and quantifying features from Hi-C data, including: contacts vs. distance, compartments and saddles, insulation, and peaks
 
 - [coolpup.py](https://www.github.com/open2c/coolpuppy) for flexible pileup analysis
+
+- [distiller](https://www.github.com/open2c/distiller-nf) - a Nextflow pipeline for automation of Hi-C data processing, from reads to Cooler files
 
 - [quaich](https://www.github.com/open2c/quaich) - a Snakemake pipeline for automated Hi-C postprocessing using **cooltools** and **coolpup.py**
  
 Additionally,
 
-- [bioframe](https://www.github.com/open2c/bioframe) provides a framework for genomic data analysis using Pandas DataFrames, including genomic interval arithmetic
+- [bioframe](https://www.github.com/open2c/bioframe)[^*] provides a framework for genomic data analysis using Pandas DataFrames, including genomic interval arithmetic
 
 - [polychrom](https://www.github.com/open2c/polychrom) simplifies polymer simulations for *in silico* experiments with chromosomes
 
@@ -39,3 +39,5 @@ Additionally,
 For contributors and community members:
  - [Authorship policy]({{ site.baseurl }}{% link authorship_policy.md %})
  - [Code of conduct]({{ site.baseurl }}{% link code_of_conduct.md %})
+
+[^*]: **Cooler**, **pairtools**, **cooltools**, and **bioframe** are [NumFOCUS](https://numfocus.org/)-affiliated projects.
