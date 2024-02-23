@@ -7,3 +7,5 @@ To serve locally:
 $ bundle update
 $ bundle exec jekyll serve
 ```
+
+github practice
