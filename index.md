@@ -35,7 +35,9 @@ Additionally,
 - Pairtools [tutorials](https://pairtools.readthedocs.io)
 
 
-🤝 Please interact with us on [GitHub](https://www.github.com/open2c) (we are open!), or join our [Slack](https://bit.ly/2UaOpAe) for more interactive discussions.
+🤝 Please interact with us on [GitHub](https://www.github.com/open2c) (we are open!), or join our [Discord](https://discord.com/invite/qVfSbDYHNG) for more interactive discussions.
+
+Legacy [Slack](https://bit.ly/2UaOpAe).
 
 For contributors and community members:
  - [Authorship policy]({{ site.baseurl }}{% link authorship_policy.md %})
